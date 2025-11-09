@@ -7,3 +7,6 @@
 
 # Link Azure Boards
 https://dev.azure.com/AthenaFIAP/Challenge%20Mottu
+
+# Link Vídeo
+https://youtu.be/sx3Tadmu5ps
